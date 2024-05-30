@@ -1,0 +1,71 @@
+body{
+    color: rgb(240, 200, 255);
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    background-color: rgb(73, 12, 99);
+}
+
+header{
+    min-width: 2600px;
+    height: 186px;
+    margin-bottom: 70px;
+    padding-top: 30px;
+    width: 255px;
+    font-family: "Georgia", serif;
+    font-size: 56px;
+    line-height: 64px;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-weight: normal;
+    justify-content: center;
+}
+
+section h2{
+    margin-top: 40px;
+}
+
+header img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    margin-top: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+header h2{
+    font-size: 52px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+footer{
+    padding-top: 60px;
+    background-color: rgb(255, 100, 0);
+    display: inline-flex;
+    padding-bottom: 1000px;
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+li {
+    font-size: 48px;
+    margin: 40px;
+}   
+
+.about_teacher{
+    font-size: 18px;
+}
